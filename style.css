@@ -1,0 +1,171 @@
+/*<<<<<<<* Header Section CSS *>>>>>>> */
+.header-section{
+    z-index: 9999;
+}
+.navbar-image{
+    width: 98px;
+    height: auto;
+}
+.text-end-section {
+	margin-left: 370px;
+}
+
+.main-bg{
+    background-color: #f9f9ff;
+}
+
+
+/* <<<<<<<<* Banner Section CSS *>>>>>>>> */
+.banner-section{
+    background-color: #f9f9ff;
+    padding-top: 108px;
+}
+.banner-caption{
+    margin-top: 180px;
+}
+.banner-caption h5 {
+	font-weight: 600;
+	font-size: 22px;
+	margin-bottom: 18px;
+}
+.banner-caption h1 {
+	font-size: 48px;
+	font-weight: 600;
+	margin-bottom: 35px;
+}
+.banner-caption p{
+    margin-bottom: 20px;
+}
+.button-edit{
+    font-weight: bold;
+    background-color: #6876f8;
+    border: none;
+}
+
+
+/* <<<<<<<<<* About Section CSS *>>>>>>>>> */
+.about-image {
+	width: 510px;
+	height: auto;
+	border: 2px solid rgb(235, 235, 235);
+	padding: 10px;
+    border-radius: 4px;
+}
+
+.about-content {
+	margin-top: 60px;
+}
+.about-content h6 {
+	margin-bottom: 15px;
+}
+.about-content h2 {}
+.about-content p {
+	font-size: 18px;
+	font-weight: 50;
+	margin-bottom: 20px;
+}
+.about-content p {
+	margin-bottom: 28px;
+}
+.about-content a{
+    background-color: #6876f8;
+    border: none;
+}
+
+
+/* <<<<<<<<<* Number Sectin *>>>>>>> */
+.number-section{
+    background-color: #717ffc;
+    padding: 80px 0;
+}
+
+.number-sec{
+    font-weight: 600;
+}
+.number-item-sec p{}
+
+
+/* <<<<<<<<* Card Section CSS *>>>>>>>> */
+.card-title-h2{
+    font-size: 39px;
+    margin-bottom: 15px;
+}
+.card-title-section p{
+    font-size: 19px;
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+.card-items{
+    padding-bottom: 2px;
+}
+.number-item {
+	display: inline-block;
+	color: #000;
+	font-size: 32px;
+	border-radius: circle;
+	border-radius: 50%;
+	height: 100px;
+	width: 100px;
+	line-height: 100px;
+	margin: 10px 0;
+}
+.card-items h5 {
+	margin: 6px 0;
+}
+.card-items h6 {
+	font-size: 17px;
+	margin: 10px 0;
+}
+.card-items p{
+    margin: 30px 0;
+    font-size: 20px;
+    color: grey;
+    font-weight: 500;
+}
+.number-button {
+	margin: 50px 0;
+}
+.number-button a{
+    box-shadow: 4px 4px 30px 0 rgba(24, 24, 24, 0.13);
+    padding: 12px 26px;
+}
+
+
+/* <<<<<<<<* Second Card Section *>>>>>>>> */
+.second-card-item{
+    margin-top: 80px;
+    box-shadow: 3px 8px 10px 0 rgba(0, 0, 0, 0.082);
+}
+.card-image-sec{
+    width: 100px;
+    height: auto;
+    margin-left: 21px;
+    margin-top: -65px;
+}
+
+
+/* <<<<<<<<<<* Contact Section CSS *>>>>>>>>>>> */
+.contact-section-item{
+    box-shadow: 4px 4px 30px 0 rgba(24, 24, 24, 0.1);
+}
+.contact-section h5{
+    font-weight: 600;
+}
+.contact-section h2{
+    font-weight: 600;
+    font-size: 38px;
+}
+
+.form-sec-head{
+    font-weight: 600;
+}
+
+.contact-head-info{
+    font-size: 25px;
+    margin-top: 68px;
+    margin-bottom: 20px;
+}
+.contact-down-info{
+    font-size: 20px;
+    margin-bottom: 15px;
+}
